@@ -1,2 +1,2 @@
-# rattlescript-runtime
-Runtime code for the Rattlescript programming language I'm writing in Rust.
+# C Types
+This is a simple dynamic value type system I created in C. 
